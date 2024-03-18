@@ -18,3 +18,5 @@ This data differs from the data presented in Fishers article (identified by Stev
 3. petal length in cm
 4. petal width in cm
 5. class: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
+
+![image](https://github.com/778569/KNN-for-iris-Flower-Machine-Learning-/assets/52319671/710fcec1-d8b2-4b90-ac7e-782363973333)
