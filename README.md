@@ -22,5 +22,5 @@ This data differs from the data presented in Fishers article (identified by Stev
 ![image](https://github.com/778569/KNN-for-iris-Flower-Machine-Learning-/assets/52319671/710fcec1-d8b2-4b90-ac7e-782363973333)
 
 ## How to change KNN to Support vector machine?
-*just change to statement and check the accuracy
+*just change to statement and check the accuracy<br><br>
 ![image](https://github.com/778569/KNN-for-iris-Flower-Machine-Learning-/assets/52319671/c56ef654-443b-463d-a793-2ca58c9175a0)
